@@ -14,11 +14,7 @@ nav{
     background-color:#f1efef;
     text-align: center;
     list-style-type: none;
+    text-decoration: none;
     font-size: 25px;
     font-weight: bold;
-}
-#Current_News{
-    background-color:#f1efef;
-    text-align: center;
-    list-style-type: none;
 }
